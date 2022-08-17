@@ -17,3 +17,6 @@ FEATURES:
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 
+![Screenshot (44)](https://user-images.githubusercontent.com/86066653/185160167-3134a6e9-0ce3-4054-9fb1-6634f29945ba.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/86066653/185160266-25378b10-0723-426a-96ad-1288f719122b.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/86066653/185160402-891cc8d3-d563-4963-9f41-144fabeddffe.png)
